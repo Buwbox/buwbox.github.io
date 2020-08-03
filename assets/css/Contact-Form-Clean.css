@@ -83,7 +83,7 @@
 }
 
 .contact-clean form .btn-primary {
-  background-color: #055ada !important;
+  background: linear-gradient(135deg,rgba(46,58,238,1)14%,rgba(10,215,247,1)100%) !important;
   margin-top: 15px;
   color: #fff;
 }
